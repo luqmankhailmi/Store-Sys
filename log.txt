@@ -1,3 +1,8 @@
 DATE : 28 / 10 / 2022
 LOG :
 - ADDED THE MAIN MENU FEATURE FOR THE PROGRAM INTERFACE
+----------------------------------------------------------------------------------
+DATE : 29/10/2022
+LOG :
+- ADDED STATUS SYSTEM FOR WHEN THE SYSTEM IS NOT IN USED, THE SYSTEM WILL TURN INTO IDLE MODE.
+----------------------------------------------------------------------------------
